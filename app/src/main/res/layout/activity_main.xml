@@ -14,7 +14,7 @@
 
         />
 
-    <!--    If you decde to initialize the player programmatically, remember to
+    <!--    If you decode to initialize the player programmatically, remember to
     remove the autoPlay and videoId attributes from the YouTubePlayerView in your XML file.-->
 <!--        app:autoPlay="true"-->
 <!--        app:videoId="RazWA1DN0Dw"-->
